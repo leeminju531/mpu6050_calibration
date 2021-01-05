@@ -1,2 +1,2 @@
 # mpu6050_calibration
-mpu6050 calibration
+mpu6050 calibration on Arduino
